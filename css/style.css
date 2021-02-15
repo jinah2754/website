@@ -1,0 +1,69 @@
+body {
+    background-color: #ffee93;
+    padding-top: 150px;
+}
+
+h1, ul {
+    font-family: 'Do Hyeon', sans-serif;
+}
+
+hr {
+    margin: 0 30px;
+}
+
+.profile {
+    background-color: white;
+    border-top: 10px solid #e97878;
+    border-bottom: 10px solid #9b5151;
+    border-radius: 10px;
+    margin: 0 auto;
+    width: 900px;
+
+    text-align: center;
+}
+
+.profile-image {
+    width: 200px;
+    height: 200px;
+    border-radius: 75px;
+    margin-top: -100px;
+    margin-bottom: 30px;
+}
+
+.text{
+    color: #0f1123;
+    text-align: left;
+    font-size: 20px;
+    list-style: none;
+}
+
+.github {
+    padding: 20px;
+    font-size: 45px;
+    width: 45px;
+    text-align: center;
+    display: inline-block;
+  }
+.github:hover {
+    opacity: 0.7;
+  } 
+  .facebook {
+    padding: 20px;
+    font-size: 45px;
+    width: 45px;
+    text-align: center;
+    display: inline-block;
+  }
+.facebook:hover {
+    opacity: 0.7;
+  } 
+  .velog {
+    padding: 20px;
+    font-size: 45px;
+    width: 45px;
+    text-align: center;
+    display: inline-block;
+  }
+.velog:hover {
+    opacity: 0.7;
+  } 
